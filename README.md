@@ -21,30 +21,19 @@ I'm a passionate CSE student who loves building **real-world applications** usin
 
 **Languages**
 
-* C
-* Java
-* Kotlin
-* Python
-* SQL
+* C    * Java    * Kotlin    * Python    * SQL
 
 **Android**
 
-* Android Studio
-* Jetpack (Navigation, ViewModel)
-* Material Design
+* Android Studio    * Jetpack (Navigation, ViewModel)    * Material Design
 
 **AI / Data**
 
-* Machine Learning
-* ONNX Models
-* Data Analysis
+* Machine Learning    * ONNX Models    * Data Analysis
 
 **Tools**
 
-* Git & GitHub
-* VS Code
-* Linux / Windows
-* Chatgpt
+* Git & GitHub    * VS Code    * Linux / Windows    * Chatgpt
 ---
 
 ## 📌 Featured Projects
@@ -85,23 +74,18 @@ I'm a passionate CSE student who loves building **real-world applications** usin
 
 ## 🎯 Current Focus
 
-* Advanced Android Development
-* Applied Machine Learning & NLP
+* Learning the Data Science
+* Applied Machine Learning 
 * Building production-ready projects
 
 ---
 
 ## 🤝 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+* 📧 Email: omkarpatil0118@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/omkarpatil18
 
 ---
 
-## ✨ Fun Fact
-
-I believe **consistent small projects > big unfinished ideas** 😄
-
----
 
 ⭐ If you like my work, consider starring the repositories!
