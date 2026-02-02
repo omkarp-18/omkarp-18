@@ -21,19 +21,19 @@ I'm a passionate CSE student who loves building **real-world applications** usin
 
 **Languages**
 
-* C    * Java    * Kotlin    * Python    * SQL
+* C    , Java    , Kotlin    , Python    , SQL
 
 **Android**
 
-* Android Studio    * Jetpack (Navigation, ViewModel)    * Material Design
+* Android Studio    , Jetpack (Navigation, ViewModel)    , Material Design
 
 **AI / Data**
 
-* Machine Learning    * ONNX Models    * Data Analysis
+* Machine Learning    , ONNX Models    , Data Analysis
 
 **Tools**
 
-* Git & GitHub    * VS Code    * Linux / Windows    * Chatgpt
+* Git & GitHub    , VS Code    , Linux / Windows    , Chatgpt
 ---
 
 ## 📌 Featured Projects
